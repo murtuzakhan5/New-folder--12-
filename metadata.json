@@ -1,0 +1,6 @@
+{
+  "name": "Farooq Garments",
+  "description": "Elegant ladies wear and custom stitching in Karachi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
